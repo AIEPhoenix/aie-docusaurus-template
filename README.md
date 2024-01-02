@@ -8,6 +8,8 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 $ yarn
 ```
 
+<!-- # un-comment when chart is implemented When all samples are answered by all examinees, a reporter will generate a chart to show each examinee's performance on selected metrics. -->
+
 ### Local Development
 
 ```
